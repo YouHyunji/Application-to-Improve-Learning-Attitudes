@@ -26,7 +26,7 @@ YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태
 ![JAVA](https://img.shields.io/badge/JAVA-53C1DE?style=flat-square&logo=java&logoColor=white) ![Styled-Components](https://img.shields.io/badge/Styled_Components-DB7C85?style=flat-square&logo=styled-components&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
+
 
 ## 할일
 🟩 - 구현 🟨 - 작업중 🟥 - 미구현
