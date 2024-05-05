@@ -4,6 +4,8 @@
 YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태도를 분석함과 동시에, 
 에빙하우스의 망각곡선 이론을 활용하여 효율적인 학습을 할 수 있도록 도와주는 스터디 애플리케이션
 
+<br>
+
 ## 🎯 주요 기능
 
 ### 1. 사용자가 학습한 파일에 대한 " 망각 진행률 " 그래프 제공
@@ -22,8 +24,10 @@ YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태
 - 시스템이 복습이 잘 되었다고 판단했을 경우에는 복습하기 리스트에서 자동으로 삭제
 - 복습 횟수 증가 & 학습 태도를 개선 효과
 
+<br>
+
 ## 🛠 기술 및 도구
-![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 
