@@ -27,7 +27,7 @@ YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태
 <br>
 
 ## 🛠 기술 및 도구
-![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white) ![Android](https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 
