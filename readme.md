@@ -36,6 +36,13 @@ YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태
 
 <br>
 
+## ⏰ 커밋 히스토리
+
+[내 커밋 히스토리](https://github.com/gamjaseob/Review_Project/commits?author=YouHyunji)
+<br/>
+<br/>
+<br/>
+
 ## 할일
 🟩 - 구현 🟨 - 작업중 🟥 - 미구현
 
