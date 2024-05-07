@@ -6,6 +6,16 @@ YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태
 
 <br />
 
+## 🛠 기술 및 도구
+![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?&style=flat-square&logo=Python&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=white) 
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat-square&logo=googlecolab&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+
+<br>
+
 ## 🔗 링크
 
 **Original Repository Link :** [https://github.com/gamjaseob/Review_Project](https://github.com/gamjaseob/Review_Project)
@@ -24,7 +34,8 @@ YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태
 - 사용자는 그래프를 열람으로써 동기 부여 효과
 - 망각 진행률이 60%일 때, 복습 알림 전송
 
-<img width="50%" alt="망각곡선" src="https://github.com/YouHyunji/Review_Project/assets/54940615/63f81d32-06d3-4bbb-950f-b7fa06650539" /> <img width="50%" alt="복습알림" src="https://github.com/YouHyunji/Review_Project/assets/54940615/910287cd-b220-4383-990f-e545233b5136" />
+<img width="50%" alt="망각곡선" src="https://github.com/YouHyunji/Review_Project/assets/54940615/63f81d32-06d3-4bbb-950f-b7fa06650539"> 
+<img width="50%" alt="복습알림" src="https://github.com/YouHyunji/Review_Project/assets/54940615/910287cd-b220-4383-990f-e545233b5136" />
 
   
 ### 2. AI 모델 ( YOLOv5 ) 을 적용시킨 학습 태도 분석 ( 집중모드 )
@@ -40,16 +51,9 @@ YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태
 - '복습하기' 리스트에서는 '집중모드'가 자동 실행
 - 시스템이 복습이 잘 되었다고 판단했을 경우에는 복습하기 리스트에서 자동으로 삭제
 - 복습 횟수 증가 & 학습 태도를 개선 효과
+- 
+![image](https://github.com/YouHyunji/Application-to-Improve-Learning-Attitudes/assets/54940615/208af134-7f28-4da8-aefd-fbfe67991afc)
 
-<br>
-
-## 🛠 기술 및 도구
-![Java](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?&style=flat-square&logo=Python&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android&logoColor=white) 
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat-square&logo=googlecolab&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 <br>
 
