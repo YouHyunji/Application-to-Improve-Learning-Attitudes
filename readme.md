@@ -10,6 +10,8 @@ YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태
 
 <img width="100%" alt="메인 페이지" src="https://github.com/YouHyunji/Application-to-Improve-Learning-Attitudes/assets/54940615/4597b84b-a448-4f37-a621-c8e5d5eb9ce4.png" />
 
+<br>
+<br>
 
 > **프로젝트:** 학습 능률 향상 & 학습 태도 개선을 위한 스터디 앱
 >
