@@ -36,8 +36,8 @@ YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태
 
 
 ![복습알림](https://github.com/YouHyunji/Application-to-Improve-Learning-Attitudes/assets/54940615/abdab4d9-b3e2-4522-ad4b-df57b4edacec) 
+<img alt="망각곡선" src="https://github.com/YouHyunji/Application-to-Improve-Learning-Attitudes/assets/54940615/ecb71453-ab80-46bc-8da0-6b2b8134e406"  width="700" height="370">
 
-![망각곡선](https://github.com/YouHyunji/Application-to-Improve-Learning-Attitudes/assets/54940615/ecb71453-ab80-46bc-8da0-6b2b8134e406)
 
   
 ### 2. AI 모델 ( YOLOv5 ) 을 적용시킨 학습 태도 분석 ( 집중모드 )
