@@ -24,8 +24,7 @@ YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태
 - 사용자는 그래프를 열람으로써 동기 부여 효과
 - 망각 진행률이 60%일 때, 복습 알림 전송
 
-<img width="50%" alt="망각곡선" src="https://github.com/YouHyunji/Review_Project/assets/54940615/63f81d32-06d3-4bbb-950f-b7fa06650539" />
-<img width="50%" alt="복습알림" src="https://github.com/YouHyunji/Review_Project/assets/54940615/910287cd-b220-4383-990f-e545233b5136" />
+<img width="50%" alt="망각곡선" src="https://github.com/YouHyunji/Review_Project/assets/54940615/63f81d32-06d3-4bbb-950f-b7fa06650539" /> <img width="50%" alt="복습알림" src="https://github.com/YouHyunji/Review_Project/assets/54940615/910287cd-b220-4383-990f-e545233b5136" />
 
   
 ### 2. AI 모델 ( YOLOv5 ) 을 적용시킨 학습 태도 분석 ( 집중모드 )
