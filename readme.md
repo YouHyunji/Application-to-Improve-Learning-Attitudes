@@ -48,6 +48,7 @@ YOLOv5 알고리즘을 활용한 학습 모델을 통해 사용자의 학습 태
 
 ## 💻 동작 구조도
 **작성자:** 유현지
+<br>
 ![시스템 구조도](https://github.com/gamjaseob/Review_Project/assets/54940615/f82a930d-779f-425f-ab45-3e0d4ca05838)
 
 <br>
